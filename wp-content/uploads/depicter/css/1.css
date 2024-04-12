@@ -1,0 +1,89 @@
+
+.depicter-1-element-30 .depicter-bullet-item{
+	background-color:#9A9A9A;
+	border-radius:5px 5px 5px 5px ;
+	width:9px;
+	height:9px;
+}
+.depicter-1-element-30 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#FA8702;
+}
+.depicter-1-element-30 .depicter-bullets-wrapper{
+	gap:5px;
+	flex-direction:row;
+}
+.depicter-revert .depicter-1-element-31{
+	background-color:#FFD327;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-31 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-32{
+	background-color:#FFD327;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-32 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-1-element-14{
+	font-size:25px;
+	color:#000000;
+	font-family:"Arial";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-7{
+	font-size:22px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-5{
+	font-size:22px;
+	color:#FFD327;
+	font-family:"Open Sans";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-4{
+	border-radius:100px;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-26{
+	border-radius:100px;
+}
+.depicter-revert .depicter-1-element-20{
+	font-size:25px;
+	color:#000000;
+	font-family:"Arial";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-18{
+	font-size:22px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-17{
+	font-size:22px;
+	color:#FFD327;
+	font-family:"Open Sans";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-15 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
